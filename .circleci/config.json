@@ -1,0 +1,24 @@
+{
+  "site1" : {
+    "pages": {
+      "home" : {
+        "url": "https://a.lupu.pro",
+        "screen": "desk"
+      },
+      "home-test": {
+        "url": "https://lupu.pro",
+        "screen": "desk",
+        "compare_with": "home"
+      },
+      "home-m" : {
+        "url": "https://a.lupu.pro",
+        "screen": "mobile"
+      },
+      "home-m-test" : {
+        "url": "https://lupu.pro",
+        "screen": "mobile",
+        "compare_with": "home-m"
+      }
+    }
+  }
+}
